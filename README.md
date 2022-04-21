@@ -1,11 +1,6 @@
 - 👋 Hi, I’m @frontyoon
-- 👀 I’m interested in react
-- 🌱 I’m currently learning frontend
+- 👀 I’m interested in react, django
+- 🌱 I’m currently learning frontend, backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
-<!---
-frontyoon/frontyoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
