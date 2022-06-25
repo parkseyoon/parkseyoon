@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @frontyoon
-- 👀 I’m interested in react, django
-- 🌱 I’m currently learning frontend, backend
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 👀 I’m interested in Car
+- 🌱 I’m currently learning Django
+- 📫 How to reach me <seyoon.dev@gmail.com>
