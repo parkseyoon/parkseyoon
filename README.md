@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @frontyoon
-- 👀 I’m interested in Car
-- 🌱 I’m currently learning Django
-- 📫 How to reach me <seyoon.dev@gmail.com>
+Server Developer
+
+Django, Django Rest Framework, Python
