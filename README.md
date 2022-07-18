@@ -1,3 +1,3 @@
-Server Developer
+# Server Developer
 
-Django, Django Rest Framework, Python
+## Stack: Django, Django Rest Framework, Docker
