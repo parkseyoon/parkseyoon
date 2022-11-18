@@ -1,3 +1,3 @@
-# Server Developer
+# iOS Developer
 
-Django, Django Rest Framework
+Swift
