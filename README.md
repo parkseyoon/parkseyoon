@@ -1,3 +1,3 @@
-# Developer
+# iOS Developer
 
-Swift, Django
+Swift
